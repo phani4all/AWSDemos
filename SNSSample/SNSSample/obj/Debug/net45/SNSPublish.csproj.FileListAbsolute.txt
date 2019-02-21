@@ -1,0 +1,13 @@
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\SNSPublish.exe.config
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\SNSPublish.exe
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\SNSPublish.pdb
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\AWSSDK.Core.dll
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\AWSSDK.SimpleNotificationService.dll
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.csproj.CoreCompileInputs.cache
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.AssemblyInfoInputs.cache
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.AssemblyInfo.cs
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.csproj.CopyComplete
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.exe
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.pdb
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\obj\Debug\net45\SNSPublish.csprojAssemblyReference.cache
+C:\Webmethods.Projects\core.projects\SNSSample\SNSSample\bin\Debug\net45\Newtonsoft.Json.dll
