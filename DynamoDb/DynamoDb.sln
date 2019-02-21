@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDb", "DynamoDb\DynamoDb.csproj", "{3B8A2645-E468-40DC-8C62-8F64F17E48C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoDB.Libs", "DynamoDB.Libs\DynamoDB.Libs.csproj", "{3544440E-D678-4729-85D7-C65B33B0333A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8A2645-E468-40DC-8C62-8F64F17E48C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8A2645-E468-40DC-8C62-8F64F17E48C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8A2645-E468-40DC-8C62-8F64F17E48C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8A2645-E468-40DC-8C62-8F64F17E48C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3544440E-D678-4729-85D7-C65B33B0333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3544440E-D678-4729-85D7-C65B33B0333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3544440E-D678-4729-85D7-C65B33B0333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3544440E-D678-4729-85D7-C65B33B0333A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E982E71-1CC1-4455-BBAE-E85D20AC0D2E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\bin\Debug\netcoreapp2.1\DynamoDB.Libs.deps.json
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\bin\Debug\netcoreapp2.1\DynamoDB.Libs.dll
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\bin\Debug\netcoreapp2.1\DynamoDB.Libs.pdb
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.csprojAssemblyReference.cache
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.csproj.CoreCompileInputs.cache
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.AssemblyInfoInputs.cache
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.AssemblyInfo.cs
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.dll
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.pdb
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Webmethods.Projects\core.projects\DynamoDb\DynamoDB.Libs\obj\Debug\netcoreapp2.1\DynamoDB.Libs.csproj.CopyComplete
